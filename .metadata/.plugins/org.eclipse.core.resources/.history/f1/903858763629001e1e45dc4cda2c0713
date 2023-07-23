@@ -1,0 +1,5 @@
+package com.project.code.model;
+
+public class Employee {
+
+}
